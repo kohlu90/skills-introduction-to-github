@@ -1,5 +1,5 @@
 <header>
-
+HELLO THIS IS A TEST TEXT
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
